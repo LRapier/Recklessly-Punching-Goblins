@@ -1,3 +1,3 @@
 # Recklessly-Punching-Goblins
  
-Play: https://github.com/LRapier/Recklessly-Punching-Goblins
+Play: https://lrapier.github.io/Recklessly-Punching-Goblins/
